@@ -1,10 +1,12 @@
 
-| **Relatert til**            | [oppfølgingsspørsmål](oppfølgingsspørsmål.md) |
-| --------------------------- | --------------------------------------------- |
-| **Link til arbeid i Figma** |                                               |
-| **Status**                  | not started / in progress / complete          |
+| **Relatert til** | [oppfølgingsspørsmål](oppfølgingsspørsmål.md) |
+| ---------------- | --------------------------------------------- |
+| **Status**       | not started                                   |
+## Linker til arbeid
+
 
 ## Formål
+
 
 ## Kjappe tanker
 
