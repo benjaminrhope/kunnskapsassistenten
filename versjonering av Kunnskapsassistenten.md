@@ -12,7 +12,6 @@ Hver tilnærming har et etablert sett med regler. Det vi gjør nå er å lage v�
 
 1. Å forenkle kommunikasjonen på tvers av roller
 2. For å løsrive vårs fra tankesett som ikke er like gjeldende i vårt tilfelle
-    
 
 ## Versjoner
 
@@ -52,7 +51,7 @@ Flere områder:
 - Designskisser
 - Endringslogg
 
-Når vi har kommet i gang med bruk av versjonering kan vi vise eksempler pKommer tilbake til nøyaktig hvordan det vil se ut.
+Når vi har kommet i gang med bruk av versjonering kan vi vise eksempler på det fra de ulike områdene.
 
 ### Designskisser
 
@@ -68,14 +67,14 @@ Vi låner strukturen fra semantisk versjonering, som er fordelt på tre tall:
 
 Disse tallene representerer omfanget av endringen, og innsatsen som er lagt ned i arbeidet.
 
-Det er viktig at vi **diskuterer hva som kvalifiserer** til å være en “major” eller “minor” oppdatering.
+> [!NOTE] Til seinere
+> Det er viktig at vi **diskuterer hva som kvalifiserer** til å være en “major” eller “minor” oppdatering.
 
 Dette vurderer vi ut i fra hva som var en betydningsfull arbeidsmengde for vårs som team. Ikke enkeltpersoner.
 
-|   |   |   |
-|---|---|---|
-|**Versjonsnummer**|**Hva det betyr**|**Eksempel**|
-|Major|Store endringer som endrer produktet på en fundamental måte|**4.0.0** = Første versjon av designsystemet i produksjon|
-|Minor|Nye funksjoner eller vesentlige forbedringer innen samme paradigme|**4.1.0** = Lagt til søk blant kildene|
-|Patch|Små justeringer og feilrettinger|**4.1.1** = Rettet opp skrivefeil, og endret tekst i tenkestegene|
-|Commit ID|Brukes definitivt mest av utviklerne. Kun relevant for å referere til en spesifikk versjon av testmiljøet. Ikke noe vi kommuniserer utafor prosjektgruppa.|**4.1.1.c1e609a** = En spesifikk iterasjon som er publisert til testmiljøet. Hvis den ikke er godkjent lages det en ny iterasjon som får en ny “commit ID”, f. eks e6a260u, hvor versjonsnummeret i sin helhet da blir **4.1.1.e6a260u**|
+| **Versjonsnummer** | **Hva det betyr**                                                                                                                          | **Eksempel**                                                                                                                                                                                                                             |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Major              | Store endringer som endrer produktet på en fundamental måte                                                                                | **4.0.0** = Første versjon av designsystemet i produksjon                                                                                                                                                                                |
+| Minor              | Nye funksjoner eller vesentlige forbedringer innen samme paradigme                                                                         | **4.1.0** = Lagt til søk blant kildene                                                                                                                                                                                                   |
+| Patch              | Små justeringer og feilrettinger                                                                                                           | **4.1.1** = Rettet opp skrivefeil, og endret tekst i tenkestegene                                                                                                                                                                        |
+| Commit ID          | Brukes av utviklerne. Kun relevant for å referere til en spesifikk versjon av testmiljøet. Ikke noe vi kommuniserer utafor prosjektgruppa. | **4.1.1.c1e609a** = En spesifikk iterasjon som er publisert til testmiljøet. Hvis den ikke er godkjent lages det en ny iterasjon som får en ny “commit ID”, f. eks e6a260u, hvor versjonsnummeret i sin helhet da blir **4.1.1.e6a260u** |
