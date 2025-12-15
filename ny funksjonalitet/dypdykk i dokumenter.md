@@ -4,6 +4,7 @@
 | **Status**       | not started / in progress / complete |
 ## Linker til arbeid
 
+- [Arbeidet i Figma](https://www.figma.com/design/dD3Xs8rJe1TYU5fb65VKEY/Kunnskapsassistenten?node-id=1121-31755)
 
 ## Formål
 
@@ -19,9 +20,9 @@ Skriv ned stikkord som kan være relevant å utdype seinere
 
 ## Åpne spørsmål
 
-| **Spørsmål** | **Svar** | **Dato besvart** |
-| ------------ | -------- | ---------------- |
-|              |          |                  |
+| **Spørsmål**               | **Svar** | **Dato besvart** |
+| -------------------------- | -------- | ---------------- |
+| Hvordan skal svaret vises? |          |                  |
 
 ## Omfang
 
