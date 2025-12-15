@@ -1,9 +1,13 @@
 
-| **Relatert til** | [oppfølgingsspørsmål](oppfølgingsspørsmål.md) |
-| ---------------- | --------------------------------------------- |
-| **Status**       | Ferdig utkast fra design                      |
+| **Relatert til** | [oppfølgingsspørsmål](oppfølgingsspørsmål.md)        |
+| ---------------- | ---------------------------------------------------- |
+| **Status**       | Ferdig utkast fra design, ikke startet med utvikling |
 ## Linker til arbeid
 - [Skisser i figma](https://www.figma.com/design/dD3Xs8rJe1TYU5fb65VKEY/Kunnskapsassistenten?node-id=837-25049)
+
+## Skisse
+
+![Designskisse](skisser-oppstartsspm.png)
 
 ## Formål
 
@@ -39,4 +43,3 @@ Forventes at spørsmålene byttes ut for hver gang man oppdaterer siden. Sånn s
 
 ## Referanser
 
-![Designskisse](Pasted%20image%2020251212160538.png)
