@@ -42,29 +42,8 @@ Når du har gjort et søk, og deretter søke på noe annet så burde søket endr
 
 Se skjermopptaket for å forstå hva jeg mener:
 
+![kildesøk](kildesøk.mp4)
 
+Opptaket viser også behovet for to ulike “states” – treff, og aktivt treff, som har hver sin farge. For å tydeligere indikere når man hopper mellom ulike treff, spesielt som er innenfor samme chunk eller "visning".
 
-## Kjappe tanker
-
-Skriv ned stikkord som kan være relevant å utdype seinere
-
-## Antagelser
-
-
-## Åpne spørsmål
-
-| **Spørsmål** | **Svar** | **Dato besvart** |
-| ------------ | -------- | ---------------- |
-|              |          |                  |
-
-## Omfang
-
-| **Must have:**    |     |
-| ----------------- | --- |
-| **Nice to have:** |     |
-| **Not in scope:** |     |
-
-## Interaksjon og design
-
-
-## Referanser
+Dette påvirkes også av samme utfordring som på ytelse. Det vil oppleves like tregt å trykke på "neste" som det er nå når man trykker "enter".
