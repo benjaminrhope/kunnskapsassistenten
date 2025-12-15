@@ -21,20 +21,28 @@ La brukeren laste opp dokumenter som tilleggskilder til det vi får fra Kudos.
 	- OECD-kilder
 	- 
 
+### Disclaimer
+
+Deling av tråder er en funksjonalitet som vi må vurdere som en separat greie. Det krever at vi setter oss mer inn i hvordan Sharepoint-integrasjon vil henge sammen med deling av tråder.
+
 ## Antagelser
 
+Å ikke kunne laste opp egne dokumenter vil oppleves som en “dealbreaker”, eller være blokkerende, for flere av brukerne våres, siden de håndterer interne dokumenter som ikke kan deles med andre.
 
+
+![](Pasted%20image%2020251215110935.png)
 ##  Stegvis tilnærming
 
 Dette er et forslag på hvordan en stegvis utvikling av det å laste opp egne dokumenter kan se ut. Hvor vi prøver å ta høyde for både sikkerhet og brukeropplevelse samtidig, og hva som kan gi verdi fra starten av.
 
-Her tar vi høyde for at ingen tråder er åpne, men alle er private og lukkede.
+I denne tilnærmingen tar vi utgangspunkt i at ingen tråder er åpne, men alle er private og lukkede.
 
 For å ha alt på det rene måtte vi vel i så fall slettet tråden i sin helhet og, siden innholdet i dokumentet gjenspeiles i svaret du får i tråden.
 
-Et viktig premiss for implementasjonen foreslått nedenfor er at all tilgangstyring styres gjennom Sharepoint (og eventuelt GoogleDrive/iCloud/Dropbox og andre tjenester på sikt).
+> [!NOTE] Viktig å merke seg
+> 
+> Et viktig premiss for implementasjonen foreslått nedenfor er at all tilgangstyring styres gjennom Sharepoint. På sikt kunne man sikkert åpnet opp for andre tjenester som GoogleDrive/iCloud/Dropbox, men det er altså Sharepoint vi har hatt diskutert i første omgang.
 
-Deling av tråder er ny funksjonalitet som vi må vurdere som en separat greie. Det krever at vi setter oss mer inn i hvordan Sharepoint-integrasjon vil henge sammen med deling av tråder.
 
 |                                | **Første steg**<br><br>Kun i testmiljø                                                                                                                                                                                                                                                                                                                                                                             | **Andre steg**<br><br>I produksjon                                                                                                       | **Tredje steg**<br><br>I produksjon                                                                                                             |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,9 +73,6 @@ Deling av tråder er ny funksjonalitet som vi må vurdere som en separat greie. 
 |**Nice to have:**  <br>Add anything you want but don't strictly need|- Laste opp flere dokumenter om gangen<br>    <br>- “Drag and drop”-opplasting<br>    <br>- “Empty state” som beskriver hva man skal gjøre|
 |**Not in scope:**  <br>Add anything you don't want to include|- Muligheten til å redigere dokumentene du laster opp<br>    <br>    - Eller noen form for å endre innholdet som er i dokumentene (utenom eventuelt metadata)|
 
-##  Antagelser
-
-Å ikke kunne laste opp egne dokumenter vil oppleves som en “dealbreaker”, eller være blokkerende, for flere av brukerne våres, siden de håndterer interne dokumenter som ikke kan deles med andre.
 
 ##  Åpne spørsmål
 
