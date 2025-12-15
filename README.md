@@ -12,4 +12,16 @@ Det er fordelt utover fire hovedmapper:
 
 Hva er forskjellen mellom stagingmiljøet og testmiljøet? Svaret finner du her [utviklingsmiljøer](utviklingsmiljøer.md).
 
-Med et lite team på 7 personer, fordelt på 3,5 årsverk er det desto viktigere å være samkjørt om hva som skal lages *nå*, og hva som vil være nyttig for brukeren *fram i tid*. Derfor har utforsket [versjonering av Kunnskapsassistenten](versjonering%20av%20Kunnskapsassistenten.md), og hva det betyr i praksis for måten vi planlegger på tvers av fagdisipliner.
+Med et lite team på 7 personer, fordelt på 3,5 årsverk er det desto viktigere å være samkjørt om hva som skal lages *nå*, og hva som vil være nyttig for brukeren *fram i tid*. Derfor har vi utforsket [versjonering av Kunnskapsassistenten](versjonering%20av%20Kunnskapsassistenten.md), og hva det betyr i praksis for måten vi planlegger på tvers av fagdisipliner.
+
+Hvordan veit vi at vi tar de riktige valgene for brukerne? Utenom jevnlig testing og kommunikasjon har vi også definert noen [retningslinjer for bruk av Kunnskapsassistenten](retningslinjer%20for%20bruk%20av%20Kunnskapsassistenten.md). Ut fra det igjen har vi lagd [akseptansekriterier](akseptansekriterier.md) for testing av ny funksjonalitet.
+
+Vi holder oss ikke slavisk til hverken retningslinjene eller akseptansekriterie, men det er noe å streve etter i en hverdag med høyt tempo.
+
+Med andre ord, i denne mappa finner du kunnskap som er nødvendig for prosjektet i sin helhet.
+
+### Innsikt
+
+[Hva tenker brukerne våre om dokumentvisningen](dokumentvisning.md)? Svaret finner du i denne mappa.
+
+Hva veit vi egentlig om brukerne våre, hvis vi ser litt overordnet på det? Svaret finner du i [personas](personas.md). 
