@@ -7,6 +7,13 @@
 
 ## Formål
 
+Vi snakker om begrepet "blackbox" fordi det er vanskelig eller umulig for brukeren å vite hva språkmodellen faktisk gjør. Hvordan framgangsmetoden ser ut for å komme fram til resultatet man får. Derfor er det viktig at vi tydeliggjør det så langt vi har mulighet til.
+
+## Utforskende skisse
+
+En måte å gjøre dette på er å bruke en et element fra [Simons prototype](Simons%20prototype.md), hvor vi kan skjule informasjonen (gjennom en accordion)
+
+![Skisse på blackbox](skisse-blackbox.png)
 
 ## Kjappe tanker
 
