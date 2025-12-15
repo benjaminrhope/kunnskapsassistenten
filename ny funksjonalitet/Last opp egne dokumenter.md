@@ -77,17 +77,7 @@ Deling av tråder er ny funksjonalitet som vi må vurdere som en separat greie. 
 
 ## Definisjon av dokumentene som kan lastes opp
 
- |   |   |   |   |   |
-|---|---|---|---|---|
-||Offentlige dokumenter|Dokumenter som skal offentliggjøres|Dokumenter som kan gis ut ved innsynsforespørsel|Dokumenter som ikke skal/kan offentliggjøres|
-|**Ingen sensitiv informasjon**|Publiserte forskningsrapporter, statistikk, lover, nettsteder, avisartikler|Utkast til høringsnotater, faglige vurderinger|||
-|**Sensitiv info (interne vurderinger)**||||R-notater, interne strategidokumenter, Dokumenter med taushetsplikt, beredskapsplaner|
-|**+ Person-opplysninger**||Dokumenter med anonymiserte data||Arbeidskontrakter, personalmapper|
-|**+ Særlig kategori av sensitive person-opplysninger**||Aggregert helsedata til statistikk||Pasientjournaler, helserapporter|
-|**+ Forretnings-hemmeligheter**|||Interne vurderinger ved anskaffelser + sladdede dokumenter fra leverandør|Tilbud anskaffelser usladdet|
-|**Kan gi konkurransefordeler**||Anbudsgrunnlag før offentliggjøring|||
-|**+ Har sperrefrist**||Statsbudsjett før offentliggjøring, enkelte proposisjoner, børssensitiv informasjon|||
-|**+ Sikkerhetsgradert informasjon**||||Dokumenter merket BEGRENSET, KONFIDENSIELT, HEMMELIG, STRENGT HEMMELIG|
+
 ##  Omfang
 
 |   |   |
