@@ -1,1 +1,5 @@
 Her og der kommer du til å se referanser til "Simons prototype". Denne ble lagd av Simon Archer Dreyer, som gikk videre til nye eventyr etterhvert. Prototypen lagde han for avdelingen Digital strategi og samhandling (DSS) i Digdir. 
+
+![](Pasted%20image%2020251215065138.png)
+
+![](Pasted%20image%2020251215065214.png)
