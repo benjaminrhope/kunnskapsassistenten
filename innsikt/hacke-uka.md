@@ -122,7 +122,7 @@ Det er et ønske fra behovseierne å finne bearbeidingene/trådene som andre har
 
 ### Etatstyring
 
-> [!info] **Beskrivelse av konseptet**
+> [!important] **Beskrivelse av konseptet**
 > 
 > Løsningen sammenligner et tildelingsbrev og en årsrapport ved å hente ut den relevante informasjon ordrett fra dokumentene. Som deretter lar brukeren fokusere på vurdering og kvalitetssikring av innholdet, som skal brukes til et såkalt “forberedelsesnotat”.
 > 
@@ -152,7 +152,10 @@ Det som står i den blå boksen under Sammenstilling på høyre side, “Rapport
 - Prosessen forenkles og brukerne bruker mindre tid på å finne og hente ut informasjonen til forberedelsesnotatet
 - Brukerne får mer tid til kvalitetssikring og vurderingene som skal gjøres
 
-En potensiell gevinst med dette caset er at departementet får bedre forståelse for utfordringene til underliggende virksomhet over tid. Man får ikke bare et øyeblikksbilde, men mer kontinuerlig samhandling. Bedre dialog.
+
+> [!NOTE] Potensiell gevinst
+> 
+> En potensiell gevinst med dette caset er at departementet får bedre forståelse for utfordringene til underliggende virksomhet over tid. Man får ikke bare et øyeblikksbilde, men mer kontinuerlig samhandling. Bedre dialog.
 
 | **Hva fungerte bra?**                                                                                                             | **Hva var utfordringene?**                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -163,14 +166,21 @@ En potensiell gevinst med dette caset er at departementet får bedre forståelse
 | Mulighet for å samhandle mellom etatstyrer og etat på løpende basis, også mellom etatstyringsmøtene                               |                                                                                             |
 | Tilnærmingen kan tilpasses for hver virksomhet (ved å bruke begrepene som faktisk brukes)                                         |                                                                                             |
 
-Der de andre casene har behov for å se gjennom og sammenligne hundrevis av dokumenter over tid (fra mange virksomheter), gjerne med KI-assistentens hjelp til tolking, skiller dette caset seg ut med å vurdere virksomheter enkeltvis basert på noen få dokumenter. Hvor brukeren har ansvar for kun noen få virksomheter, og ingen ønske om tolkning fra KI-assistenten. Kun hjelp til å hente ut info, for å tilrettelegge for menneskelig vurdering.
+
+> [!info] Verdt å merke seg
+> 
+> Der de andre casene har behov for å se gjennom og sammenligne hundrevis av dokumenter over tid (fra mange virksomheter), gjerne med KI-assistentens hjelp til tolking, skiller dette caset seg ut med å vurdere virksomheter enkeltvis basert på noen få dokumenter. 
+> 
+> Hvor brukeren har ansvar for kun noen få virksomheter, og ingen ønske om tolkning fra KI-assistenten. Kun hjelp til å hente ut info, for å tilrettelegge for menneskelig vurdering.
 
 ---
 
 ### Digitaliseringstiltak
 
-**Beskrivelse av konseptet**  
-Digdir må lage en oversikt over pågående og planlagte digitaliseringstiltak for å sørge for en helhetlig og langsiktig prioritering i offentlig sektor. Men det er vanskelig og tidkrevende å få oversikt. Konseptet innebar å lage en spesialisert løsning for dette behovet, men også ivareta balanse mot en generell løsning slik at den kan tilpasses av brukeren. Det var ønskelig å sammenstille oversikten i en tabell, ved å benytte dokumenter fra Kudos.
+
+> [!important] **Beskrivelse av konseptet**  
+> 
+> Digdir må lage en oversikt over pågående og planlagte digitaliseringstiltak for å sørge for en helhetlig og langsiktig prioritering i offentlig sektor. Men det er vanskelig og tidkrevende å få oversikt. Konseptet innebar å lage en spesialisert løsning for dette behovet, men også ivareta balanse mot en generell løsning slik at den kan tilpasses av brukeren. Det var ønskelig å sammenstille oversikten i en tabell, ved å benytte dokumenter fra Kudos.
 
 #### **Konseptet forutsetter..**
 
