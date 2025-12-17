@@ -4,38 +4,33 @@ Kunnskapsarbeidere i det offentlig bruker enormt mye tid på å **lage** disse d
 
 En spørreundersøkelse fra Kudos, gjort i 2018, blant 1100 kunnskapsarbeidere, viste at:
 
-60% bruker **mer enn én dag i uka** på å lete etter kunnskap
+> 60% bruker **mer enn én dag i uka** på å lete etter kunnskap
 
 Den samme undersøkelsen viste også at:
 
-- Nettverk er en av de viktigste kildene til kunnskap
-    
-- Kunnskap som er produsert blir ofte ikke brukt (en påstand som ble støttet av 70% av deltagerne)
-    
+1. Nettverk er en av de viktigste kildene til kunnskap
+2. Kunnskap som er produsert blir ofte ikke brukt (en påstand som ble støttet av 70% av deltagerne)
 
 For å hente ut potensialet som ligger der i alle disse dokumentene er vi avhengige av å bruke verktøy som generativ kunstig intelligens for å finne informasjonen vi trenger.
 
 ## Kroner og øre
 
-Men hvor mye koster det egentlig å **lete etter kunnskap**?
-
-For å svare på det må vi ha noen tall å basere det på
+Men hvor mye koster det egentlig å **lete etter kunnskap**? For å svare på det må vi ha noen tall å basere det på
 
 [Statistisk Sentralbyrå](https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/arbeidskraftkostnader/artikler/en-arbeidstaker-kostet-881-000-kroner-i-2022#:~:text=En%20arbeidstaker%20kostet%20881%20000%20kroner%20i%202022%20%E2%80%93%20SSB) publiserte en oversikt i slutten av 2023, som viser at:
-
 > **En fulltidsansatt kostet arbeidsgiveren sin i gjennomsnitt 881 000 kroner i 2022.** Beløpet omfatter arbeidsgivers samlede kostnader ved å ha ansatte.
 
 For enkelhetens skyld kommer vi til å avrunde tallene framover.
-
 ### Utgangspunktet for regnestykket
 
-|   |   |
-|---|---|
-|Gjennomsnittlig pris for en arbeidstaker i året (for organisasjonen)|900 000 kr|
-|Arbeidsdager per årsverk|230 dager|
-|Uker i året med arbeidstid|47 uker|
+| Gjennomsnittlig pris for en arbeidstaker i året (for organisasjonen) | 900 000 kr |
+| -------------------------------------------------------------------- | ---------- |
+| Arbeidsdager per årsverk                                             | 230 dager  |
+| Uker i året med arbeidstid                                           | 47 uker    |
 
-47 x 4000 = ca 200 000 per ansatt i året på å leite etter kunnskap.
+900 000 kr / 230 dager = 3 913 kr per dag, rundes opp til 4 000 kr.
+
+4000 kr x 47 arbeidsuker = ca 200 000 kr per ansatt i året på å leite etter kunnskap.
 
 Dette er konservative vurderinger i alle ledd.
 
