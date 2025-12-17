@@ -28,19 +28,18 @@ For enkelhetens skyld kommer vi til å avrunde tallene framover.
 | Arbeidsdager per årsverk                                             | 230 dager  |
 | Uker i året med arbeidstid                                           | 47 uker    |
 
-900 000 kr / 230 dager = 3 913 kr per dag, rundes opp til 4 000 kr.
+- 900 000 kr / 230 dager = 3 913 kr per dag, rundes opp til 4 000 kr.
+- 4000 kr x 47 arbeidsuker = ca 200 000 kr
 
-4000 kr x 47 arbeidsuker = ca 200 000 kr per ansatt i året på å leite etter kunnskap.
+På en årlig basis koster det altså en organisasjon ca 200 000 kr per ansatt (kunnskapsarbeider) å **kun leite** etter kunnskap.
 
-Dette er konservative vurderinger i alle ledd.
-
-Dette er én kunnskapsarbeider i staten.
+Dette er snakk om én kunnskapsarbeider i staten. Og det er konservative vurderinger i alle ledd.
 
 ### Hvor mange kunnskapsarbeidere finnes det egentlig?
 
-Å sette nøyaktig tall på antall kunnskapsarbeidere i staten er vanskelig. Men som et eksempel kan vi se på Digdir. Hvor rundt 75% av ca 400 ansatte kan ansees som kunnskapsarbeidere. Det vil si 300 kun i Digdir (300x200 000)
+Å sette nøyaktig tall på antall kunnskapsarbeidere i staten er vanskelig. Men som et eksempel kan vi se på Digdir. Hvor rundt 75% av de 400 ansatte kan ansees som kunnskapsarbeidere, med stor sannsynlighet. Det vil si 300 kunnskapsarbeidere i Digdir alene.
 
-Digdir bruker rundt 60 000 000 kr i året på å lete etter kunnskap
+Med andre ord, Digdir bruker rundt 60 000 000 kr i året på å **leite etter kunnskap**.
 
 For departementet sin del (DFD), og deres 176 ansatte, vil det samme anslaget resultere i 26 400 000 kr på en årlig basis.
 
