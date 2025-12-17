@@ -100,9 +100,6 @@ Vi har fargekodet summene basert på et “educated guess”. Ut fra hva som vir
 
 ![kostnadsbilde-fargekodet](kostnadsbilde-fargekodet.webp)
 
-Da ser vi at det er sannsynlig at Departementfellesskapet bruker et sted mellom 10-23,5 millioner kroner på lisenser til kommersielle KI-tjenester på en årlig basis.
+Da ser vi at det er sannsynlig at Departementfellesskapet bruker et sted mellom 10-23,5 millioner kroner på lisenser til kommersielle KI-tjenester på en årlig basis. Og dette kommer da i tillegg til kostnadene av å leite etter kunnskap som vi snakket om tidligere.
 
-## Hva vil Kunnskapsassistenten koste?
-
-Her burde vi skrive noe om konklusjonen. Si noe om prisen av Kunnskapsassistenten, opp mot de andre summene. Og hvordan det ikke nødvendigvis passer for absolutt alle, men langt bedre enn kommersielle alternativer for en god del av dem.
-
+Er det riktig bruk av penger?
